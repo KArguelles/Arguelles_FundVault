@@ -59,12 +59,12 @@ Install them using pip:
 ```bash
 pip install pillow tkcalendar mysql-connector-python
 
-Database Setup:
+##  Database Setup:
 
 Locate the SQL File
 The fvault_db.sql file is included in the repository. This file contains the database structure and initial data.
 
-Import the Database
+## Import the Database
 
 Open phpMyAdmin (usually at http://localhost/phpmyadmin).
 Create a new database with the name fvault_db.
@@ -77,11 +77,11 @@ Username: root (or your MySQL username)
 Password: Your MySQL password
 Run the Program
 
-Start the program by executing:
+## Start the program by executing:
 
 python app.py
 
-Usage:
+## Usage:
 Launch the application to create saving goals and track progress.
 Manage transactions and allocate emergency funds.
 Review transaction history and goal progress in real time.
