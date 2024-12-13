@@ -1,0 +1,4 @@
+Successfully Paid To
+Name: Alex Smith
+Phone Number: 09546728982
+Amount Due: ₱3000.00
